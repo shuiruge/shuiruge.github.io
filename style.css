@@ -82,8 +82,7 @@ section h2 {
   grid-template-columns: repeat(4, 1fr);
 }
 .project h3 {
-  min-width: 7em;
-  padding-right: 2em;
+  min-width: 8em;
 }
 .project h3 a {
   color: rgb(199, 51, 51);
