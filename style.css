@@ -83,6 +83,8 @@ section h2 {
 }
 .project h3 {
   min-width: 8em;
+  vertical-align: top;
+  text-align: left;
 }
 .project h3 a {
   color: rgb(199, 51, 51);
@@ -90,6 +92,7 @@ section h2 {
 .pdesc {
   grid-column: span 3;
   vertical-align: top;
+  text-align: left;
   font-size: 17px;
 }
 
