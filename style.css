@@ -19,12 +19,15 @@ header {
 }
 #hpic {
   grid-column: span 6;
-  text-align: right;
+  text-align: center;
 }
 #hpic img {
   width: 240px;
   height: 240px;
   border-radius: 120px;
+}
+#hico a {
+  text-decoration: none;
 }
 .iico {
   width: 40px;
