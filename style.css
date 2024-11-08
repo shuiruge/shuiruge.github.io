@@ -91,6 +91,7 @@ section h2 {
 }
 .project h3 a {
   color: darkred;
+  text-decoration: none;
 }
 .pdesc {
   grid-column: span 3;
