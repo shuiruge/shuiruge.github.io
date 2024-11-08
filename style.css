@@ -90,7 +90,7 @@ section h2 {
   text-align: left;
 }
 .project h3 a {
-  color: rgb(199, 51, 51);
+  color: darkred;
 }
 .pdesc {
   grid-column: span 3;
