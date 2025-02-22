@@ -1,4 +1,9 @@
+@font-face {
+    font-family: "Han Serif";
+    src: url("assets/fonts/han-serif.ttf");
+}
 body {
+  font-family: "Han Serif", serif;
   background-color: #c7edcc;
   max-width: 700px;
   margin-left: auto;
