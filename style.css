@@ -94,7 +94,7 @@ section h2 {
   grid-template-columns: repeat(4, 1fr);
 }
 .project h3 {
-  min-width: 8em;
+  min-width: 11em;
   vertical-align: top;
   text-align: left;
 }
